@@ -23,6 +23,8 @@ builder.Services.AddSwaggerGen();
 
 //Inyección de servicio
 builder.Services.AddScoped<IRepositoryGenders, RepositoryGenders>();
+builder.Services.AddScoped<IRepositoryActors, RepositoryActors>();
+
 
 builder.Services.AddOutputCache();   
 
@@ -44,6 +46,7 @@ app.MapGet("/", () => "Api de Francisco Saldivar");
 
 //MapGroup 
 var gendersEndPoint = app.MapGroup("/genders").MapGenders();
+var actorsEndPoint = app.MapGroup("/actors").MapActors();
 
 
 //Fin de middlewares

@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|c:\\users\\fsaldivar\\onedrive - dxc production\\documents\\dotnetapis\\moviesapi\\endpoints\\gendersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|solutionrelative:endpoints\\gendersendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|c:\\users\\fsaldivar\\onedrive - dxc production\\documents\\dotnetapis\\moviesapi\\endpoints\\actorendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|solutionrelative:endpoints\\actorendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|c:\\users\\fsaldivar\\onedrive - dxc production\\documents\\dotnetapis\\moviesapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|solutionrelative:applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|c:\\users\\fsaldivar\\onedrive - dxc production\\documents\\dotnetapis\\moviesapi\\repositories\\repositorygenders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|solutionrelative:repositories\\repositorygenders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|c:\\users\\fsaldivar\\onedrive - dxc production\\documents\\dotnetapis\\moviesapi\\services\\isavefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|solutionrelative:services\\isavefiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{392C6003-78F4-4E65-8480-DA41F4E159BE}|MoviesAPI.csproj|c:\\users\\fsaldivar\\onedrive - dxc production\\documents\\dotnetapis\\moviesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,59 +22,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GendersEndpoints.cs",
-              "DocumentMoniker": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Endpoints\\GendersEndpoints.cs",
-              "RelativeDocumentMoniker": "Endpoints\\GendersEndpoints.cs",
-              "ToolTip": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Endpoints\\GendersEndpoints.cs",
-              "RelativeToolTip": "Endpoints\\GendersEndpoints.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABSAAAA",
+              "DocumentIndex": 1,
+              "Title": "ISaveFiles.cs",
+              "DocumentMoniker": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Services\\ISaveFiles.cs",
+              "RelativeDocumentMoniker": "Services\\ISaveFiles.cs",
+              "ToolTip": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Services\\ISaveFiles.cs",
+              "RelativeToolTip": "Services\\ISaveFiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T18:13:33.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-05T20:06:06.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\ApplicationDBContext.cs",
-              "RelativeDocumentMoniker": "ApplicationDBContext.cs",
-              "ToolTip": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\ApplicationDBContext.cs",
-              "RelativeToolTip": "ApplicationDBContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAlAAAA",
+              "DocumentIndex": 0,
+              "Title": "ActorEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Endpoints\\ActorEndpoints.cs",
+              "RelativeDocumentMoniker": "Endpoints\\ActorEndpoints.cs",
+              "ToolTip": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Endpoints\\ActorEndpoints.cs",
+              "RelativeToolTip": "Endpoints\\ActorEndpoints.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T14:52:25.684Z",
+              "WhenOpened": "2024-04-05T17:51:57.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RepositoryGenders.cs",
-              "DocumentMoniker": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Repositories\\RepositoryGenders.cs",
-              "RelativeDocumentMoniker": "Repositories\\RepositoryGenders.cs",
-              "ToolTip": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Repositories\\RepositoryGenders.cs",
-              "RelativeToolTip": "Repositories\\RepositoryGenders.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T14:44:06.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\fsaldivar\\OneDrive - DXC Production\\Documents\\DotNetAPIs\\MoviesAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAAC0AAAA7AAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T18:20:44.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-02T18:20:44.53Z"
             }
           ]
         }
